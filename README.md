@@ -20,4 +20,4 @@ Uma lista de Afazeres usando React.Js
 ### API:
 - https://jsonplaceholder.typicode.com/
 <br>
-> *credits: https://www.youtube.com/watch?v=ErjWNvP6mko*
+> credits: https://www.youtube.com/watch?v=ErjWNvP6mko
