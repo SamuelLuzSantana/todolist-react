@@ -6,7 +6,7 @@ Uma lista de Afazeres usando React.Js
 <br>
 
  <div align="center">  
-  <img height="90%" width="90%"  				   src="https://i.imgur.com/KBQK4JE.gif"/>  
+  <img height="90%" width="90%"  				   src="https://i.imgur.com/2pGaV6F.gif"/>  
 </div>
 
 
